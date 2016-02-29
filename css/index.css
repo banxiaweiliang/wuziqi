@@ -1,0 +1,35 @@
+body{
+	background-image:url(../img/beijing.jpeg); 
+}
+#canvas{
+	display: block;
+	margin: 0 auto;
+	border: 1px solid black;
+
+}
+#chongkai{
+	width:100px;
+	height: 40px;
+	position: absolute;
+	left: 10%;
+	top: 40%;
+	border:1px solid black;
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	background: #555;
+	color: #ccc;
+}
+#huiqi{
+	width:100px;
+	height: 40px;
+	position: absolute;
+	left: 10%;
+	top: 60%;
+	border:1px solid black;
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	background: #555;
+	color: #ccc;
+}
